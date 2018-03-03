@@ -10,7 +10,7 @@ namespace TeamPowered
     {
         static void Main(string[] args)
         {
-            var loPersons = new List<string> { "qwerty", "asdfgh" };
+            var loPersons = new List<string> { "qwerty", "asdfgh", "zxcvbn" };
         }
     }
 }
